@@ -1,0 +1,3 @@
+D:\Study Material\Tutorials\Microservices\Azure\repo\Chatgpt\obj\Debug\Chatgpt.njsprojAssemblyReference.cache
+D:\Study Material\Tutorials\Microservices\Azure\repo\Chatgpt\obj\Debug\Chatgpt.njsproj.CoreCompileInputs.cache
+D:\Study Material\Tutorials\Microservices\Azure\repo\Chatgpt\bin\Microsoft.NodejsTools.WebRole.dll
